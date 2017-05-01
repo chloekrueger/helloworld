@@ -1,4 +1,4 @@
 # helloworld
 first program
 
-I am changing the detials in this file.
+I am changing the details in this file.
